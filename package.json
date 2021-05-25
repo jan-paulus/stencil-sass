@@ -38,11 +38,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-sass.git"
+    "url": "git+https://github.com/jan-paulus/stencil-sass.git"
   },
   "author": "Ionic Team",
   "homepage": "https://stenciljs.com/",
-  "description": "The Stencil Sass Plugin",
+  "description": "Fork of The Stencil Sass Plugin",
   "keywords": [
     "stencil",
     "sass"
