@@ -1,3 +1,5 @@
+# ⚠️ Please migrate to the official @stencil/sass version 1.5.2 ⚠️
+
 # @stencil/sass
 
 This package is used to easily precompile Sass files within Stencil components. Internally this plugin uses a pure JavaScript implementation of [Sass](https://www.npmjs.com/package/sass). Please see the
