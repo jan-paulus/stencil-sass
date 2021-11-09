@@ -1,4 +1,4 @@
-# ⚠️ Please migrate to the official @stencil/sass version 1.5.2 or higher ⚠️
+# ⚠️ Please migrate to the official @stencil/sass version ^1.5.2 ⚠️
 
 # @stencil/sass
 
